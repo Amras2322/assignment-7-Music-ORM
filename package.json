@@ -7,13 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Keegan Ringnalda",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "dotenv": "^17.1.0",
+    "dotenv": "^17.4.2",
     "express": "^5.1.0",
-    "sequelize": "^6.37.7",
+    "sequelize": "^6.37.8",
     "sqlite3": "^5.1.7"
   }
 }
